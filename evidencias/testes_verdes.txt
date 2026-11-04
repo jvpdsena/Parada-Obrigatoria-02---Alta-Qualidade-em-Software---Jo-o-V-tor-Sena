@@ -1,0 +1,27 @@
+test_adicao (test_calculadora.TestCalculadora.test_adicao) ... ok
+test_adicao_negativos (test_calculadora.TestCalculadora.test_adicao_negativos) ... ok
+test_cosseno (test_calculadora.TestCalculadora.test_cosseno) ... ok
+test_divisao (test_calculadora.TestCalculadora.test_divisao) ... ok
+test_divisao_zero (test_calculadora.TestCalculadora.test_divisao_zero) ... ok
+test_fatorial_cinco (test_calculadora.TestCalculadora.test_fatorial_cinco) ... ok
+test_fatorial_negativo (test_calculadora.TestCalculadora.test_fatorial_negativo) ... ok
+test_fatorial_zero (test_calculadora.TestCalculadora.test_fatorial_zero) ... ok
+test_ln (test_calculadora.TestCalculadora.test_ln) ... ok
+test_ln_invalido (test_calculadora.TestCalculadora.test_ln_invalido) ... ok
+test_log10 (test_calculadora.TestCalculadora.test_log10) ... ok
+test_log10_zero (test_calculadora.TestCalculadora.test_log10_zero) ... ok
+test_menu_sair (test_calculadora.TestCalculadora.test_menu_sair) ... ok
+test_menu_seno (test_calculadora.TestCalculadora.test_menu_seno) ... ok
+test_multiplicacao (test_calculadora.TestCalculadora.test_multiplicacao) ... ok
+test_potencia (test_calculadora.TestCalculadora.test_potencia) ... ok
+test_raiz (test_calculadora.TestCalculadora.test_raiz) ... ok
+test_raiz_negativa (test_calculadora.TestCalculadora.test_raiz_negativa) ... ok
+test_seno (test_calculadora.TestCalculadora.test_seno) ... ok
+test_subtracao (test_calculadora.TestCalculadora.test_subtracao) ... ok
+test_tangente (test_calculadora.TestCalculadora.test_tangente) ... ok
+test_tangente_indefinida (test_calculadora.TestCalculadora.test_tangente_indefinida) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.003s
+
+OK
